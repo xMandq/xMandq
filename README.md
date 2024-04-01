@@ -1,28 +1,15 @@
-[![Alt Text](https://codilime.com/static/354674827088fb7685eb981f2055ce71/header-backend-tools.png)](https://rishavchanda.io)
-<h1 align="center">Hey 👋🏻, I'm Mhmd Obeidat from Jordan</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xmandq" alt="xmandq" /></a> </p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/wMBY7Gh7Mr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mandq_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCkTYJ2vLRN43jIQzCRa9Slw) 
 
-- 🌱 I’m currently learning **Lua, Web dev, Py**
+# 💻 Tech Stack:
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=xMandq&theme=calm&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=xMandq&theme=calm&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xMandq&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 👨‍💻 All of my projects are available at [https://github.com/xMandq](https://github.com/xMandq)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=xMandq&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
-- 💬 Ask me about **Lua**
-
-- 📫 How to reach me **mandqgt@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/_mandq_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mandq_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucktyj2vlrn43jiqzcra9slw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucktyj2vlrn43jiqzcra9slw" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mandq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mandq" height="30" width="40" /></a>
-<a href="https://discord.gg/wMBY7Gh7Mr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wMBY7Gh7Mr" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xmandq&show_icons=true&theme=dark&locale=en&layout=compact" alt="xmandq" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xmandq&show_icons=true&theme=dark&locale=en" alt="xmandq" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xmandq&theme=dark" alt="xmandq" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=xMandq&icon=0&color=0)](https://visitcount.itsvg.in)
