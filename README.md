@@ -1,9 +1,5 @@
 [![Alt Text](https://codilime.com/static/354674827088fb7685eb981f2055ce71/header-backend-tools.png)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Mhmd Obeidat</h1>
-<h3 align="center">From Jordan</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xmandq&label=Profile%20views&color=0e75b6&style=plastic" alt="xmandq" /> </p>
-
+<h1 align="center">Hi 👋, I'm Mhmd Obeidat from Jordan</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xmandq" alt="xmandq" /></a> </p>
 
 - 🌱 I’m currently learning **Lua, Web dev, Py**
