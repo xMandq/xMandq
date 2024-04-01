@@ -6,10 +6,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=xMandq&theme=calm&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xMandq&theme=calm&hide_border=false)
-
-<div style="display: flex; justify-content: center;">
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xMandq&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
+| | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xMandq&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
 
 
 ## 🏆 GitHub Trophies
