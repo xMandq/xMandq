@@ -13,7 +13,9 @@
 
 <br/><p align="center">
 <a href="https://github.com/xMandq">
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xMandq&theme=tokyonight"/><img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xMandq&theme=tokyonight"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xMandq&theme=tokyonight"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xMandq&theme=tokyonight"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xMandq&theme=tokyonight"/>
 </a>
 </p>
 
